@@ -1,0 +1,1060 @@
+{
+  "dependencies": {
+    "be.elab.3dbenchy": {
+      "version": "https://github.com/EloiStree/2024_09_14_3DBenchy.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e821192a04f9768e6a58a23369e4f7a82e3ede12"
+    },
+    "be.elab.airstreamscan": {
+      "version": "https://github.com/EloiStree/2025_03_23_ScanVanAirstream.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0f4037c4a4231cec735fc2552382f5f55b166769"
+    },
+    "be.elab.asymsigner": {
+      "version": "https://github.com/EloiStree/OpenUPM_AsymmetricalClipboardCoaster.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "be.elab.pbit4096b58pkcs1sha256": "2025.1.16"
+      },
+      "hash": "9f3f7026f253700f19099ed0b74ac4865d52d7e6"
+    },
+    "be.elab.basicactioniid": {
+      "version": "https://github.com/EloiStree/OpenUPM_BasicActionIID.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "be.elab.iid": "2025.1.16"
+      },
+      "hash": "78027fa15aaa2e7948382d71951b12fed89bc444"
+    },
+    "be.elab.besttiming": {
+      "version": "https://github.com/EloiStree/2024_09_06_BestTimingScore.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9b928e4f7fb564adc300682403d6347e57d94394"
+    },
+    "be.elab.blockscolor": {
+      "version": "https://github.com/EloiStree/2024_10_16_BlocksColor.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1ca2b109d13379ec00ffc85099767f50b017ff63"
+    },
+    "be.elab.developernote": {
+      "version": "https://github.com/EloiStree/OpenUPM_DeveloperNote.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c73fd1e4650f31d8ea4dd1c06e56277f2c3217cf"
+    },
+    "be.elab.digitalscoreandclock": {
+      "version": "https://github.com/EloiStree/2023_02_17_DigitalScoreAndClock.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c057daa338b9bdd1b6a2bc076a9e67ddda22a753"
+    },
+    "be.elab.droneracestepmesh": {
+      "version": "https://github.com/EloiStree/2024_06_31_DroneRaceStep.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8940d30a2aefc3cfa419d5512b38aa053ed109fb"
+    },
+    "be.elab.dronesoccergoal": {
+      "version": "https://github.com/EloiStree/2023_02_16_DroneSoccerGoal.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "28d5a9964475fa7cd1f32bc25b6d45487fae7b96"
+    },
+    "be.elab.exportmesh": {
+      "version": "https://github.com/EloiStree/2024_10_18_ExportMeshFilter.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6d48c202f63d286108783561c81011fd06484782"
+    },
+    "be.elab.gamepadxboxinputevent": {
+      "version": "https://github.com/EloiStree/2024_05_09_GamepadXboxInputUnity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "90a6136ff58efe0f7b49cce05bf0544eb2520b8f"
+    },
+    "be.elab.guardiantoxr": {
+      "version": "https://github.com/EloiStree/2025_03_28_GuardianFingerIdOpenXR.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c3060c1e81708962dd9e9a5efff02ecbe06ee450"
+    },
+    "be.elab.hellocopter": {
+      "version": "https://github.com/EloiStree/2023_02_19_KidToyHelicopterModeCode.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a3274b79d0b18be9f2672663b5fda8d457ef0a3c"
+    },
+    "be.elab.iid": {
+      "version": "https://github.com/EloiStree/OpenUPM_IID.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "cdaab87e666311add98ca42dd84a556a4a648979"
+    },
+    "be.elab.intlobby": {
+      "version": "https://github.com/EloiStree/2025_03_11_IntegerLobbyFacade.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3ef81c814db417d67be407cda8a73b0ef3a9377f"
+    },
+    "be.elab.intlobbysampleship": {
+      "version": "https://github.com/EloiStree/2025_03_18_IntLobbySampleSpaceship.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "52ab73ec8392a74c15efb719e09f7a7df476c0df"
+    },
+    "be.elab.intlobbysetup": {
+      "version": "https://github.com/EloiStree/2025_03_11_NtpWsClientIntegerLobbySetup.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "78d6a14827cc59d395a52971f7ee9229698d2d14"
+    },
+    "be.elab.intmapping": {
+      "version": "https://github.com/EloiStree/2025_03_16_IntegerMapping.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f7df33c29dbd648f722e79b94b99557b4942e407"
+    },
+    "be.elab.irctoy": {
+      "version": "https://github.com/EloiStree/2024_09_15_IToyControllerRC.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "064658e03927621414862b5747efc56f5f3612b9"
+    },
+    "be.elab.killallhumans": {
+      "version": "https://github.com/EloiStree/2025_04_16_KillAllHumansAbduction.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5e1e17b207021a188ede3be62bfb516f606ead09"
+    },
+    "be.elab.killhumansovni": {
+      "version": "https://github.com/EloiStree/2025_04_17_KillAllHumansByAbductionOVNI.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ae14ea5830c475d902d3946373888f887c77f6f9"
+    },
+    "be.elab.liftofftelemetry": {
+      "version": "https://github.com/EloiStree/2025_04_26_LiftoffForAI.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0e8f35c9379ff4c2a817f671fd37f8fddeca4389"
+    },
+    "be.elab.macrosrt": {
+      "version": "https://github.com/EloiStree/2025_02_17_UnityMacroSRT.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "468739cc2f02b2e79272dc81eb6c1219b970df6f"
+    },
+    "be.elab.missingscript": {
+      "version": "https://github.com/EloiStree/2024_10_16_FindMissingScript.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9c790a000a9341755d466b0dbc20f61d92eb4d61"
+    },
+    "be.elab.morsedetector": {
+      "version": "https://github.com/EloiStree/2019_12_11_MorseDetector.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3e8df4a7654b5746cdd56891710ff633fe446fc9"
+    },
+    "be.elab.outership": {
+      "version": "https://github.com/EloiStree/2025_02_18_OuterWildsShip.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0c2dc45895141e64cea3ba8781964a0dff273ada"
+    },
+    "be.elab.ovnitoy": {
+      "version": "https://github.com/EloiStree/2025_04_15_KidToyOvniCode.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1387b66d47bf9835d52118582137af3b99a21811"
+    },
+    "be.elab.pathtype": {
+      "version": "https://github.com/EloiStree/2024_08_06_PathTypeReadWrite.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "586b79c22947f7623d29d9f46a55f87dccdc657c"
+    },
+    "be.elab.patounerace": {
+      "version": "https://github.com/EloiStree/2024_10_02_PatouneRace.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c827831b187762da77a252eee9abf6442d4dd33c"
+    },
+    "be.elab.pbit4096b58pkcs1sha256": {
+      "version": "https://github.com/EloiStree/OpenUPM_pBit4096B58Pkcs1SHA256.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3e2cd4086b39a46a087f68166560e1523c1613aa"
+    },
+    "be.elab.pinchcontrolxr": {
+      "version": "https://github.com/EloiStree/2025_03_20_IndexPinchOrControllerMetaXR.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "67c0d35d2d9e4a7d739c86298596b6817fbd80b2"
+    },
+    "be.elab.pioupiougroupmap": {
+      "version": "https://github.com/EloiStree/2025_04_17_BonjourPiouPiouMapGroup.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d4ea5ec2cf73f3d167ee519925f419bf76d1975d"
+    },
+    "be.elab.pioupiousetup": {
+      "version": "https://github.com/EloiStree/2025_04_16_Quai10PiouPiouAttackSetup.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9f491716a0412838c4f5c49ff3c00cdebfdf4aab"
+    },
+    "be.elab.primitiverelay": {
+      "version": "https://github.com/EloiStree/2025_04_02_FacadePrimitiveValueRelay.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "095cc6e7016f91de7c508927c38d905e34fce129"
+    },
+    "be.elab.pushgenericintegerdate": {
+      "version": "https://github.com/EloiStree/OpenUPM_PushGenericIID.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ffc6a0a9a8f8af4c29c53f817fe1fca4d461be25"
+    },
+    "be.elab.quickfollowit": {
+      "version": "https://github.com/EloiStree/2024_09_16_QuickFollowIt.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "719ae020d8f0459fee415f2d4ce9d1832f1b9ede"
+    },
+    "be.elab.quickgitutility": {
+      "version": "https://github.com/EloiStree/OpenUPM_QuickGitUtility.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "56e66ee0a7259b9bbf9f39bab89c4613bdfbae1f"
+    },
+    "be.elab.qwertywarsintlobby": {
+      "version": "https://github.com/EloiStree/2025_04_22_IntLobbySampleQwertyWars.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e15b51f70fac2a5a53bdbbac3858a45aead945ce"
+    },
+    "be.elab.relocation": {
+      "version": "https://github.com/EloiStree/2024_10_19_RelocationRotation.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "28b28e29f6bedfb704cf76d612d92d73d666c234"
+    },
+    "be.elab.scanpioffline": {
+      "version": "https://github.com/EloiStree/2025_03_26_ScanForRaspberryPi.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8aee13036bc3a023aafe05415666eb7863b61430"
+    },
+    "be.elab.skidtoycar": {
+      "version": "https://github.com/EloiStree/2023_11_01_KidToyCarSkidSteeringCode.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "409c156e637a8fe1514c16efb3cdad9194bcd2a9"
+    },
+    "be.elab.skyriding": {
+      "version": "https://github.com/EloiStree/2024_09_03_SkyRidingPath.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "967f6e1518bc68aedb0014882d2c4979bc342bfd"
+    },
+    "be.elab.submarinetoyrc": {
+      "version": "https://github.com/EloiStree/2024_09_30_KidToySubmarineModeCode.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9b1b4475c9da732aeea5ae2c38e2308ee9d8a5bc"
+    },
+    "be.elab.techochickartxr": {
+      "version": "https://github.com/EloiStree/2025_04_16_TechnoChickArtXR.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9ec0589dc16935bbc601178cd30d8efc5f51b6c8"
+    },
+    "be.elab.tellotoy": {
+      "version": "https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "61fab4cb0aa64b09e0c3fdd98779a5de88ac66ad"
+    },
+    "be.elab.tennnistableref": {
+      "version": "https://github.com/EloiStree/2025_03_19_TableTennisRef.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "91bc6c163da81d460759c881c22beaa7e047f958"
+    },
+    "be.elab.threepointsbuilder": {
+      "version": "https://github.com/EloiStree/2024_10_17_ThreePointsMeshBuilder.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a1bf6629a577b1543a438938ed5f3941a0223790"
+    },
+    "be.elab.threepointscursor": {
+      "version": "https://github.com/EloiStree/2024_10_17_ThreePointsCursor.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "80252cf1cb7cee7d017a7c0f9f744bf2b7a6eb7c"
+    },
+    "be.elab.threepointshader": {
+      "version": "https://github.com/EloiStree/2024_10_17_ThreePointsShader.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a11dbd98cee7e2f961c519746f2f3928685d408b"
+    },
+    "be.elab.threepointsloader": {
+      "version": "https://github.com/EloiStree/2024_10_17_ThreePointsLoader.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c115a296d3a206c81ed669e31a4c9e644c3a801f"
+    },
+    "be.elab.threepointstag": {
+      "version": "https://github.com/EloiStree/2024_10_17_ThreePointsTag.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0dcaf5397db9d5790dcd7957a3457512191fd549"
+    },
+    "be.elab.threepointsutility": {
+      "version": "https://github.com/EloiStree/2024_10_17_ThreePointsUtility.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1d6911d7bc7faabbbafa7ef1a5c64e5597dda1ce"
+    },
+    "be.elab.tickcollection": {
+      "version": "https://github.com/EloiStree/OpenUPM_TickCollection.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "afbae35b7189d75071d292d60ee1aa6b0d7a99d6"
+    },
+    "be.elab.timepercent": {
+      "version": "https://github.com/EloiStree/2025_02_17_TimePercentInterface.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "588203c1ac5f8292daaade331d83b3403b8dae4b"
+    },
+    "be.elab.trusteddroneintlobby": {
+      "version": "https://github.com/EloiStree/2025_04_22_IntLobbySampleTrustedDroneGame.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "7cd6c0ff1d26171f47d0873d7900ce0ad5216799"
+    },
+    "be.elab.udpthreadsender": {
+      "version": "https://github.com/EloiStree/2020_11_29_UDPThreadSender.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4c57bcfbf0a84738ba0807140d18dbda2306eed8"
+    },
+    "be.elab.unityfetchoffsetntp": {
+      "version": "https://github.com/EloiStree/OpenUPM_UnityFetchOffsetNTP.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a2d636daf107d6853195cefe0b38fac9cfd6352f"
+    },
+    "be.elab.unitypackagefacilitator": {
+      "version": "https://github.com/EloiStree/OpenUPM_UnityPackageFacilitator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "96871bac05234b2bc62d7df706c1dbbceb901ef8"
+    },
+    "be.elab.uvdrawabledrones": {
+      "version": "https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "13927aa35f8a8dc9e1553bee4079b1c1a982af7b"
+    },
+    "be.elab.watchexecutetime": {
+      "version": "https://github.com/EloiStree/OpenUPM_WatchExecuteTime.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5517907819861345a86a93159b0dead6790705a3"
+    },
+    "be.elab.watchtimelayersexecution": {
+      "version": "https://github.com/EloiStree/OpenUPM_WatchTimeLayersExecution.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "be.elab.watchexecutetime": "2025.1.16"
+      },
+      "hash": "30955c5e0c930bd086b8a9ea465b72fa7b1df249"
+    },
+    "be.elab.wheelshipforfun": {
+      "version": "https://github.com/EloiStree/2025_04_14_WheelShipForFun.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9af57184dcd8d641b25ca56396d9b51471c53823"
+    },
+    "be.elab.wsasymauth": {
+      "version": "https://github.com/EloiStree/OpenUPM_WsAsymAuth.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "be.elab.pbit4096b58pkcs1sha256": "1.0.0",
+        "be.elab.asymsigner": "1.0.0",
+        "be.elab.unityfetchoffsetntp": "1.0.0"
+      },
+      "hash": "af5250cc8771fbf5e8eb6f122d8959f242f656ad"
+    },
+    "be.elab.wsclientiid": {
+      "version": "https://github.com/EloiStree/OpenUPM_NtpWsClientIID.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a5abb88c5daf6cd89a4463116ff99948b96ebba7"
+    },
+    "be.elab.xboxcalibrationxr": {
+      "version": "https://github.com/EloiStree/2025_04_09_XboxKeyboardCalibration.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "7c53273d9a8ecbfc4e816bd44a0ff021fa630aec"
+    },
+    "com.meta.xr.mrutilitykit": {
+      "version": "76.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.meta.xr.sdk.core": "76.0.1",
+        "com.unity.textmeshpro": "3.0.6",
+        "com.unity.ai.navigation": "1.1.4",
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.sdk.all": {
+      "version": "76.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.meta.xr.sdk.core": "76.0.1",
+        "com.meta.xr.sdk.audio": "76.0.0",
+        "com.meta.xr.sdk.voice": "76.0.0",
+        "com.meta.xr.simulator": "76.0.0",
+        "com.meta.xr.sdk.haptics": "76.0.1",
+        "com.meta.xr.mrutilitykit": "76.0.1",
+        "com.meta.xr.sdk.platform": "76.0.0",
+        "com.meta.xr.sdk.interaction": "76.0.1",
+        "com.meta.xr.sdk.interaction.ovr": "76.0.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.sdk.audio": {
+      "version": "76.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.sdk.core": {
+      "version": "76.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.sdk.haptics": {
+      "version": "76.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.meta.xr.sdk.core": "76.0.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.sdk.interaction": {
+      "version": "76.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.textmeshpro": "3.0.6"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.sdk.interaction.ovr": {
+      "version": "76.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.meta.xr.sdk.core": "76.0.1",
+        "com.meta.xr.sdk.interaction": "76.0.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.sdk.platform": {
+      "version": "76.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.sdk.voice": {
+      "version": "76.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.meta.xr.simulator": {
+      "version": "76.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ai.navigation": {
+      "version": "2.0.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.ai": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.burst": {
+      "version": "1.8.21",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.1",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.collections": {
+      "version": "2.5.1",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.burst": "1.8.17",
+        "com.unity.test-framework": "1.4.5",
+        "com.unity.nuget.mono-cecil": "1.11.4",
+        "com.unity.test-framework.performance": "3.0.3"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ext.nunit": {
+      "version": "2.0.5",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.ide.rider": {
+      "version": "3.0.35",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ide.visualstudio": {
+      "version": "2.0.23",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.9"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.inputsystem": {
+      "version": "1.14.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.mathematics": {
+      "version": "1.3.2",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.multiplayer.center": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      }
+    },
+    "com.unity.nuget.mono-cecil": {
+      "version": "1.11.4",
+      "depth": 3,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.render-pipelines.core": {
+      "version": "17.0.4",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.burst": "1.8.14",
+        "com.unity.mathematics": "1.3.2",
+        "com.unity.ugui": "2.0.0",
+        "com.unity.collections": "2.4.3",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.terrain": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.rendering.light-transport": "1.0.1"
+      }
+    },
+    "com.unity.render-pipelines.universal": {
+      "version": "17.0.4",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "17.0.4",
+        "com.unity.shadergraph": "17.0.4",
+        "com.unity.render-pipelines.universal-config": "17.0.3"
+      }
+    },
+    "com.unity.render-pipelines.universal-config": {
+      "version": "17.0.3",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "17.0.3"
+      }
+    },
+    "com.unity.rendering.light-transport": {
+      "version": "1.0.1",
+      "depth": 2,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.collections": "2.2.0",
+        "com.unity.mathematics": "1.2.4",
+        "com.unity.modules.terrain": "1.0.0"
+      }
+    },
+    "com.unity.searcher": {
+      "version": "4.9.3",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.shadergraph": {
+      "version": "17.0.4",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "17.0.4",
+        "com.unity.searcher": "4.9.3"
+      }
+    },
+    "com.unity.test-framework": {
+      "version": "1.5.1",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.ext.nunit": "2.0.3",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      }
+    },
+    "com.unity.test-framework.performance": {
+      "version": "3.1.0",
+      "depth": 3,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.33",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.textmeshpro": {
+      "version": "5.0.0",
+      "depth": 2,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.ugui": "2.0.0"
+      }
+    },
+    "com.unity.timeline": {
+      "version": "1.8.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.director": "1.0.0",
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.particlesystem": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ugui": {
+      "version": "2.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
+      }
+    },
+    "com.unity.visualscripting": {
+      "version": "1.9.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.core-utils": {
+      "version": "2.5.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.legacyinputhelpers": {
+      "version": "2.1.12",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.management": {
+      "version": "4.5.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0",
+        "com.unity.xr.core-utils": "2.2.1",
+        "com.unity.modules.subsystems": "1.0.0",
+        "com.unity.xr.legacyinputhelpers": "2.1.11"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.openxr": {
+      "version": "1.14.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.inputsystem": "1.6.3",
+        "com.unity.xr.core-utils": "2.3.0",
+        "com.unity.xr.management": "4.4.0",
+        "com.unity.xr.legacyinputhelpers": "2.1.2"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.modules.accessibility": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.ai": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.androidjni": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.animation": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.assetbundle": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.audio": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.director": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.animation": "1.0.0"
+      }
+    },
+    "com.unity.modules.hierarchycore": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.imageconversion": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.imgui": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.jsonserialize": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.particlesystem": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.physics": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.physics2d": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.screencapture": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.imageconversion": "1.0.0"
+      }
+    },
+    "com.unity.modules.subsystems": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.jsonserialize": "1.0.0"
+      }
+    },
+    "com.unity.modules.terrain": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.terrainphysics": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.terrain": "1.0.0"
+      }
+    },
+    "com.unity.modules.tilemap": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.physics2d": "1.0.0"
+      }
+    },
+    "com.unity.modules.ui": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.uielements": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.hierarchycore": "1.0.0"
+      }
+    },
+    "com.unity.modules.umbra": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.unityanalytics": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      }
+    },
+    "com.unity.modules.unitywebrequest": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.unitywebrequestassetbundle": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.assetbundle": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0"
+      }
+    },
+    "com.unity.modules.unitywebrequestaudio": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.audio": "1.0.0"
+      }
+    },
+    "com.unity.modules.unitywebrequesttexture": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.imageconversion": "1.0.0"
+      }
+    },
+    "com.unity.modules.unitywebrequestwww": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+        "com.unity.modules.unitywebrequestaudio": "1.0.0",
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.assetbundle": "1.0.0",
+        "com.unity.modules.imageconversion": "1.0.0"
+      }
+    },
+    "com.unity.modules.video": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0"
+      }
+    },
+    "com.unity.modules.vr": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
+      }
+    },
+    "com.unity.modules.xr": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.subsystems": "1.0.0"
+      }
+    }
+  }
+}
