@@ -396,6 +396,13 @@
       "dependencies": {},
       "hash": "7cd6c0ff1d26171f47d0873d7900ce0ad5216799"
     },
+    "be.elab.twopointsquadloader": {
+      "version": "https://github.com/EloiStree/2025_06_05_TwoPointsQuadLoader.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6990ba531f1b13e71e6b7c7605a8b14cea4a62da"
+    },
     "be.elab.udpthreadsender": {
       "version": "https://github.com/EloiStree/2020_11_29_UDPThreadSender.git",
       "depth": 0,
@@ -471,6 +478,13 @@
       "source": "git",
       "dependencies": {},
       "hash": "7c53273d9a8ecbfc4e816bd44a0ff021fa630aec"
+    },
+    "be.technocite.openbrushmeasure": {
+      "version": "https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4833cb4086d4680785e1a7db7b46ad0433cf2de2"
     },
     "com.meta.xr.mrutilitykit": {
       "version": "76.0.1",
@@ -605,7 +619,7 @@
       "dependencies": {}
     },
     "com.unity.ide.rider": {
-      "version": "3.0.35",
+      "version": "3.0.36",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -661,7 +675,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "17.0.4",
+      "version": "17.1.0",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
@@ -676,12 +690,12 @@
       }
     },
     "com.unity.render-pipelines.universal": {
-      "version": "17.0.4",
+      "version": "17.1.0",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "17.0.4",
-        "com.unity.shadergraph": "17.0.4",
+        "com.unity.render-pipelines.core": "17.1.0",
+        "com.unity.shadergraph": "17.1.0",
         "com.unity.render-pipelines.universal-config": "17.0.3"
       }
     },
@@ -711,11 +725,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
-      "version": "17.0.4",
+      "version": "17.1.0",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "17.0.4",
+        "com.unity.render-pipelines.core": "17.1.0",
         "com.unity.searcher": "4.9.3"
       }
     },
