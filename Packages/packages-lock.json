@@ -184,7 +184,14 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "3e8df4a7654b5746cdd56891710ff633fe446fc9"
+      "hash": "705e871473fb410d57c859b2ba963a35a3dddd4b"
+    },
+    "be.elab.nescontrollerudp": {
+      "version": "https://github.com/EloiStree/2026_01_18_upm_nes_controller_udp.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a0e792fc469f12409008d8f321c65392ecd26d2d"
     },
     "be.elab.outership": {
       "version": "https://github.com/EloiStree/2025_02_18_OuterWildsShip.git",
@@ -268,7 +275,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "56e66ee0a7259b9bbf9f39bab89c4613bdfbae1f"
+      "hash": "87e5a782cf3637b66bacb6210592eb991bd58aa2"
     },
     "be.elab.qwertywarsintlobby": {
       "version": "https://github.com/EloiStree/2025_04_22_IntLobbySampleQwertyWars.git",
